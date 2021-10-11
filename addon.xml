@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.audio." name="xxxxx" version="1.0.0" provider-name="leopheard">
+<addon id="plugin.audio.therecountdailypod" name="The Recount Daily Pod" version="1.0.0" provider-name="leopheard">
   <requires>
     <import addon="xbmc.python" version="2.26.0"/>
     <import addon="script.module.xbmcswift2" version="2.4.0"/>
@@ -13,19 +13,19 @@
   <extension point="xbmc.addon.metadata">
     <platform>all</platform>
     <language>en_us</language>
-    <summary lang="en">xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</summary>
-    <description lang="en">xxxddddxxxxxxxxxxxxxxxxxxxxxx</description>
+    <summary lang="en">Recount Daily</summary>
+    <description lang="en">Just like The Recount is the can’t-miss news source on Twitter, The Recount Daily Pod is the morning news source you’ll want to plug into every day. Hosted by journalist Reena Ninan, each episode breaks down important information in politics, tech, business and culture. Ninan interviews journalists who break news and give listeners the crucial context necessary to understand why these stories are important</description>
     <license>The MIT License (MIT)</license>
     <forum></forum>
     <email>leopheard@gmail.com</email>
-    <source>https://github.com/leopheard/</source>
-    <website></website>
+    <source>https://github.com/leopheard/TheRecountDailyPod</source>
+    <website>https://therecount.com/podcasts</website>
         	<assets>
 			<icon>resources/media/icon.jpg</icon>
 			<fanart>resources/media/fanart.jpg</fanart>
 			<screenshot>resources/media/1.jpg</screenshot>
-			<screenshot>resources/media/2.jpg</screenshot>
-			<screenshot>resources/media/3.jpg</screenshot>
+			<screenshot>resources/media/icon.jpg</screenshot>
+			<screenshot>resources/media/fanart.jpg</screenshot>
 		</assets>
   </extension>
 </addon>
